@@ -1,0 +1,18 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: #ddd;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+.Box{
+
+	min-height: 70px;
+	font-size: 30px;
+	background-color:blue;
+	color: white;
+	margin-bottom: 5px;
+	
+}
+
+.yellow{
+	background-color: yellow;
+}
